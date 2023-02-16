@@ -1,0 +1,8 @@
+# these files will be ignored
+ignored.txt
+new_file.txt
+# we can use
+#  *
+#  [aeiou][0-9]
+#  ! don't include
+
