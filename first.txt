@@ -2,3 +2,5 @@ this is first change
 this file is changed
 this file is changed again.
 
+
+changes in stash 

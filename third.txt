@@ -1,2 +1,8 @@
 this is third change
+<<<<<<< Updated upstream
 changes made in branch 3
+=======
+new branch is created and deleted
+
+changes in stash
+>>>>>>> Stashed changes
